@@ -2,7 +2,9 @@
 <h3 align="center">A passionate Fullstack developer from India</h3>
 <img align="right" alt="coding" width="300" src="https://i.imgur.com/rTZkf4K.gif">
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **FullStack Development**
+
+- 🤔 I’m looking for help with Placements in **Python Developer**
 
 - 💬 Ask me about **python,django,javascript**
 
