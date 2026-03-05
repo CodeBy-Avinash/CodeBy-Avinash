@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avinash</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
-<img align="right" alt="coding" width="300" src="https://i.imgur.com/rTZkf4K.gif">
 
 - 🌱 I’m currently improving my Backend,Full Stack Development skills**
 
