@@ -2,11 +2,13 @@
 <h3 align="center">A passionate Fullstack developer from India</h3>
 <img align="right" alt="coding" width="300" src="https://i.imgur.com/rTZkf4K.gif">
 
-- 🌱 I’m currently learning **FullStack Development**
+- 🌱 I’m currently improving my Backend,Full Stack Development skills**
 
-- 🤔 I’m looking for help with Placements in **Python Developer**
+- 💻 I specialize in Python, Django, and Backend Developement
 
-- 💬 Ask me about **python,django,javascript**
+- 🚀 I’m looking for opportunities as a ** Python / Django Developer**
+
+- 💬 Ask me about **python,django,mysql**
 
 - 📫 How to reach me **eavinash077@gmail.com**
 
