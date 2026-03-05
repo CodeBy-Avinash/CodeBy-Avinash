@@ -69,6 +69,7 @@ Implemented user authentication, role-based access, and secure checkout workflow
 Added product search, responsive UI using Bootstrap, and optimized database queries for better performance.
 
 **Tech Stack:** Python, Django, MySQL, HTML, CSS, Bootstrap
+<br/>
 🔗 GitHub Repo: https://github.com/CodeBy-Avinash/Django-Ecommerce
 
 ---
@@ -79,7 +80,7 @@ Developed a Customer Relationship Management system to manage customers, leads, 
 Implemented CRUD operations, authentication, and structured database models to handle real client data efficiently.
 Helps businesses track interactions and manage customer relationships effectively.
 
-**Tech Stack:** Python, Django, MySQL, Bootstrap
+**Tech Stack:** Python, Django, MySQL, Bootstrap<br/>
 🔗 GitHub Repo: https://github.com/CodeBy-Avinash/Django-CRM
 
 ---
@@ -90,7 +91,7 @@ Created an AI-powered conversational assistant that responds with the personalit
 Built using Python, LangChain, and Google Gemini API with prompt engineering and contextual conversation memory.
 Implemented chat history management using LangChain message abstractions.
 
-**Tech Stack:** Python, LangChain, Google Gemini API
+**Tech Stack:** Python, LangChain, Google Gemini API<br/>
 🔗 GitHub Repo: https://github.com/CodeBy-Avinash/Einstein-Ai-App
 
 ---
