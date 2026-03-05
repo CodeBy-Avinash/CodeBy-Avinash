@@ -64,31 +64,35 @@
 
 ### 🛒 Django E-Commerce Platform
 
-Built a full-featured e-commerce web application with product listings, category filtering, cart management, and order processing.  
-Implemented user authentication, role-based access, and secure checkout workflows.  
+Built a full-featured e-commerce web application with product listings, category filtering, cart management, and order processing.
+Implemented user authentication, role-based access, and secure checkout workflows.
 Added product search, responsive UI using Bootstrap, and optimized database queries for better performance.
 
 **Tech Stack:** Python, Django, MySQL, HTML, CSS, Bootstrap
+🔗 GitHub Repo: https://github.com/CodeBy-Avinash/Django-Ecommerce
 
 ---
 
 ### 📊 CRM System
 
-Developed a Customer Relationship Management system to manage customers, leads, and business activities.  
-Implemented CRUD operations, authentication, and structured database models to handle real client data efficiently.  
+Developed a Customer Relationship Management system to manage customers, leads, and business activities.
+Implemented CRUD operations, authentication, and structured database models to handle real client data efficiently.
 Helps businesses track interactions and manage customer relationships effectively.
 
 **Tech Stack:** Python, Django, MySQL, Bootstrap
+🔗 GitHub Repo: https://github.com/CodeBy-Avinash/Django-CRM
 
 ---
 
 ### 🤖 Einstein AI Assistant
 
-Created an AI-powered conversational assistant that responds with the personality of Albert Einstein.  
-Built using LangChain and Google Gemini API with prompt engineering and contextual conversation memory.  
+Created an AI-powered conversational assistant that responds with the personality of Albert Einstein.
+Built using Python, LangChain, and Google Gemini API with prompt engineering and contextual conversation memory.
 Implemented chat history management using LangChain message abstractions.
 
 **Tech Stack:** Python, LangChain, Google Gemini API
+🔗 GitHub Repo: https://github.com/CodeBy-Avinash/Einstein-Ai-App
 
 ---
+
 
